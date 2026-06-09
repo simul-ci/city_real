@@ -49,6 +49,7 @@ src/
 ```
 
 ## Features
+
 ✅ Intention-driven, multi-step daily rollouts (plan → flexible blocks → mobility → at-home / social activities → end-of-day reflection)
 ✅ Persona-, memory-, belief-, and needs-conditioned decisions with rationales
 ✅ Explicit financial-pressure state conditioning activity, destination, transport, and stay-home choices
